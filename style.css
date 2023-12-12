@@ -46,30 +46,24 @@ button {
   
 .instagran {
     position: absolute;
-    bottom: 60px;
-    left: 89px;
+    bottom: 27px;
+    left: 79px;
 }
   
 .whatsapp {
     position: absolute;
-    bottom: 60px;
-    left: 29px;
+    bottom: 27px;
+    left: 125px;
 }
   
 .site {
     position: absolute;
-    bottom: 60px;
-    left: 210px;
+    bottom: 27px;
+    left: 170px;
 }
   
 .linkedin {
     position: absolute;
-    bottom: 60px;
-    left: 147px;
-}
-
-.local {
-    position: absolute;
-    bottom: 60px;
-    left: 265px;
+    bottom: 27px;
+    left: 219px;
 }
